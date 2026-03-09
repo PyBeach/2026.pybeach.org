@@ -1,0 +1,9 @@
+[project]
+name = "2026-pybeach-org"
+version = "2026.0"
+description = "PyBeach 2026 website"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "corvid>=1.1.1",
+]
