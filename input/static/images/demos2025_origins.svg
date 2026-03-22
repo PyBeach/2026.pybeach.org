@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 600 200"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="demos2025_origins.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   width="600"
+   height="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.435"
+     inkscape:cx="200.11274"
+     inkscape:cy="100.11274"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="3348"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <path
+     d="M 134.20201,193.96926 A 100,100 0 1 1 174.8042,166.36514 L 100,100 Z"
+     fill="#fe8f33"
+     id="path1" />
+  <path
+     d="m 174.8042,166.36514 a 100,100 0 0 1 -11.94358,11.40723 L 100,100 Z"
+     fill="#013976"
+     id="path2" />
+  <path
+     d="m 162.86062,177.77237 a 100,100 0 0 1 -28.65861,16.19689 L 100,100 Z"
+     fill="#4caf50"
+     id="path3" />
+  <g
+     id="g7"
+     transform="matrix(1.1518559,0,0,1.1518559,-157.61305,-127.76739)">
+    <circle
+       cx="325"
+       cy="175"
+       r="5"
+       fill="#fe8f33"
+       id="circle3" />
+    <text
+       x="335"
+       y="179.53"
+       alignment-baseline="middle"
+       id="text5">California 92%</text>
+  </g>
+  <g
+     id="g8"
+     transform="matrix(1.1518559,0,0,1.1518559,-157.61305,-106.47039)">
+    <circle
+       cx="325"
+       cy="195"
+       r="5"
+       fill="#013976"
+       id="circle4" />
+    <text
+       x="335"
+       y="199.506"
+       alignment-baseline="middle"
+       id="text6">Outside of the U.S. 3%</text>
+  </g>
+  <g
+     id="g9"
+     transform="matrix(1.1518559,0,0,1.1518559,-157.61305,-151.67457)">
+    <circle
+       cx="325"
+       cy="215"
+       r="5"
+       fill="#4caf50"
+       id="circle5" />
+    <text
+       x="335"
+       y="219.47598"
+       alignment-baseline="middle"
+       id="text7">Elsewhere in the U.S. 5%</text>
+  </g>
+</svg>

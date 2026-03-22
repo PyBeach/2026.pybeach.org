@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 600 200"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="demos2025_origins_cali.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   width="600"
+   height="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.435"
+     inkscape:cx="250.62007"
+     inkscape:cy="90.417136"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="3348"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13" />
+  <path
+     d="M 134.20201,193.96926 A 100,100 0 1 1 152.14352,14.67091 L 100,100 Z"
+     fill="#fe8f33"
+     id="path1" />
+  <path
+     d="m 152.14352,14.67091 a 100,100 0 0 1 43.26559,55.37743 L 100,100 Z"
+     fill="#013976"
+     id="path2" />
+  <path
+     d="m 195.40911,70.04834 a 100,100 0 0 1 3.81481,17.51729 L 100,100 Z"
+     fill="#4caf50"
+     id="path3" />
+  <path
+     d="m 199.22392,87.56563 a 100,100 0 0 1 -21.66648,75.55998 L 100,100 Z"
+     fill="#8bc34a"
+     id="path4" />
+  <path
+     d="m 177.55744,163.12561 a 100,100 0 0 1 -43.35543,30.84365 L 100,100 Z"
+     fill="#009688"
+     id="path5" />
+  <g
+     id="g13"
+     transform="translate(-109.24464,-115.78354)">
+    <circle
+       cx="325"
+       cy="175"
+       r="5"
+       fill="#fe8f33"
+       id="circle5" />
+    <text
+       x="335"
+       y="178.12"
+       alignment-baseline="middle"
+       id="text9">Los Angeles Metro Area 64%</text>
+  </g>
+  <g
+     id="g14"
+     transform="translate(-109.24464,-94.852544)">
+    <circle
+       cx="325"
+       cy="195"
+       r="5"
+       fill="#013976"
+       id="circle6" />
+    <text
+       x="335"
+       y="198.642"
+       alignment-baseline="middle"
+       id="text10">Southern California (outside of LA/SD) 11%</text>
+  </g>
+  <g
+     id="g17"
+     transform="translate(-109.24464,-95.480048)">
+    <circle
+       cx="325"
+       cy="215"
+       r="5"
+       fill="#4caf50"
+       id="circle7" />
+    <text
+       x="335"
+       y="219.53"
+       alignment-baseline="middle"
+       id="text11">Central California 3%</text>
+  </g>
+  <g
+     id="g16"
+     transform="translate(-109.24464,-155.08704)">
+    <circle
+       cx="325"
+       cy="235"
+       r="5"
+       fill="#8bc34a"
+       id="circle8" />
+    <text
+       x="335"
+       y="237.98199"
+       alignment-baseline="middle"
+       id="text12">San Diego Metro Area 13%</text>
+  </g>
+  <g
+     id="g15"
+     transform="translate(-109.24464,-115.78354)">
+    <circle
+       cx="325"
+       cy="255"
+       r="5"
+       fill="#009688"
+       id="circle9" />
+    <text
+       x="335"
+       y="257.98199"
+       alignment-baseline="middle"
+       id="text13">San Francisco Bay Area 9%</text>
+  </g>
+</svg>

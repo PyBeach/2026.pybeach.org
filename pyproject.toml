@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "corvid>=1.1.1",
+    "pysvgchart>=0.8.0",
 ]
