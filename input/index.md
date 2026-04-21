@@ -4,6 +4,14 @@ PyBeach is a member project of the <a href="https://www.python.org/psf/" title="
 
 ([Click here](https://2025.pybeach.org) if you are looking for last year's website.)
 
+## **CFP Is Now Open through June 7th**
+
+Please read through the [guidelines](/speak.html) before submitting a talk.
+
+## **Early Bird Tickets On Sale Now**
+
+Early bird ticket registration open right now. [Claim your ticket today!](https://ti.to/pybeach/pybeach2026).
+
 ## **Date and Venue**
 
 PyBeach 2026 will take place on October 24, 2026, at the [Illusion Magic Lounge](https://illusionmagiclounge.com/) in [Santa Monica, California](/attend.html#location).
