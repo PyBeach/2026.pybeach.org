@@ -41,7 +41,7 @@ In addition to general support, you can make a more direct impact on our event b
 ### **Custom Sponsorship Packages**
 We are open to other benefits. If you have any other ideas on how you can help make our conference better, please drop us a line at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
 
-<a name="caveat"></a><p style="font-size:0.8em">\* We reserve the right to reject any sponsored talk or website messaging which might jeopardize the 501(c)(3) status of the PSF, or that is not of relevance to the Python community. All talks and website messages must be submitted for approval at least one month before the conference date.</p>
+<a name="caveat"></a><p style="font-size:0.8em">\* We reserve the right to reject any sponsored talk or website messaging which might jeopardize the 501(c)(3) status of the PSF, that violates our [Code of Conduct](/conduct.html), or that is not of relevance to the Python community. All talks and website messages must be submitted for approval at least one month before the conference date.</p>
 
 ## **PyBeach 2025 Demographics**
 

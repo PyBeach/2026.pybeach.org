@@ -1,6 +1,6 @@
 ## Tickets {#tickets}
 
-Ticket registration is not open yet. Please check back soon or subscribe to our <a href="https://buttondown.com/pybeach" title="PyBeach Announcements">mailing list</a> for updates!
+Early bird ticket registration open right now. [Claim your ticket today!](https://ti.to/pybeach/pybeach2026).
 
 ## **Date and Time** {#date}
 
