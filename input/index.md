@@ -2,11 +2,13 @@ PyBeach is a general Python conference located in the Los Angeles area. It is a 
 
 PyBeach is a member project of the <a href="https://www.python.org/psf/" title="Python Software Foundation">Python Software Foundation</a>.
 
-([Click here](https://2025.pybeach.org) if you are looking for last year's website.)
-
 ## **CFP Is Now Open through June 7th**
 
 Please read through the [guidelines](/speak.html) before submitting a talk.
+
+## **Volunteers Needed**
+
+PyBeach is a [volunteer-run](/volunteer.html) event, which means we rely exclusively on members of the community to offer their time and talents to make things happen! Please fill out our [volunteer interest form](https://forms.gle/WWKu2YMZyisFm1og8) if you are interested in helping out.
 
 ## **Early Bird Tickets On Sale Now**
 
