@@ -17,6 +17,8 @@ Partnering with us will help us pay for our venue and provide a better venue exp
 | Acknowledgement in Opening and Closing Remarks | Logo on dedicated slides | Logo with other Gold sponsors | Logo with other Silver sponsors | Logo with other Bronze and Individual sponsors | Logo with other Bronze and Individual sponsors |
 | Informational address to attendees [\*](#caveat) | ✓ |  |  |  |  |
 
+<a name="caveat"></a><p style="font-size:0.8em">\* We reserve the right to reject any sponsored talk or website messaging which might jeopardize the 501(c)(3) status of the PSF, that violates our [Code of Conduct](/conduct.html), or that is not of relevance to the Python community. All talks and website messages must be submitted for approval at least one month before the conference date.</p>
+
 ### **Add-On Packages**
 In addition to general support, you can make a more direct impact on our event by sponsoring these specific add-ons and amenities.
 
@@ -35,13 +37,11 @@ In addition to general support, you can make a more direct impact on our event b
 #### **Financial Aid Sponsor**
 * Availability: Unlimited
 * Cost: $500
-* Provide complimentary or reduced-price tickets, travel, and/or accomodations to students or other attendees who request financial aid.
+* Provide complimentary or reduced-price tickets, travel, and/or accommodations to students or other attendees who request financial aid.
 * Benefits: Attendees whose tickets are complimentary via financial aid will be informed of which sponsor(s) enabled their free attendance. We will also include a special recognition for financial aid sponsors on our website.
 
 ### **Custom Sponsorship Packages**
-We are open to other benefits. If you have any other ideas on how you can help make our conference better, please drop us a line at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
-
-<a name="caveat"></a><p style="font-size:0.8em">\* We reserve the right to reject any sponsored talk or website messaging which might jeopardize the 501(c)(3) status of the PSF, that violates our [Code of Conduct](/conduct.html), or that is not of relevance to the Python community. All talks and website messages must be submitted for approval at least one month before the conference date.</p>
+We are open to other benefits. If you have any other ideas on how you can help make our conference better, please contact us at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
 
 ## **PyBeach 2025 Demographics**
 
