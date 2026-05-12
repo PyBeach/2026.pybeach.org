@@ -4,7 +4,7 @@ If you would like to help out, please fill out our [volunteer interest form](htt
 
 ## Volunteer Listings
 
-### Talk Review {#review}
+### Talk Reviewers {#review}
 
 Help shape our conference program by providing feedback on our proposals. The CFP closes June 7th, and review will take place for roughly 2 months after that. Note that this will require a relatively significant time comittment over that period of time, please only sign up if you can commit at least 2-4 hours per week during that time period.
 

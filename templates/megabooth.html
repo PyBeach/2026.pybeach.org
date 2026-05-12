@@ -1,0 +1,75 @@
+<html>
+    <head>
+
+        <title>PyCon US 2026 Southern California Community Megabooth</title>
+        <meta name="description" content="Web links for a variety of python user groups and events in Southern California" />
+
+        <link rel="icon" type="image/x-icon" href="/static/images/pybeach-logo.svg">
+
+        <style>
+            body {
+                --dark-blue: #003977;
+                --dark-gray: #444444;
+                --light-gray: #bbbbbb;
+
+                text-align: center;
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: var(--dark-gray);
+            }
+
+            a {
+                color: var(--dark-blue);
+            }
+
+            .container {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 20px;
+                align-items: center;
+                margin-bottom: 60px;
+            }
+
+            .logo-img {
+                flex: 1 1 300px;
+                width: 300px;
+                max-height: 200px;
+                object-fit: cover;
+            }
+
+            .content {
+                flex: 2 1 400px;
+            }
+
+            main {
+                max-width: 800px;
+                margin: 25px auto;
+                text-align: left;
+            }
+
+            ul {
+                text-align:center;
+                font-weight:700;
+                font-size: 1rem;
+                list-style:none;
+                padding:0;
+                li {
+                    display:inline-block;
+                    margin:0 5px
+                }
+                li:first-child {
+                margin-left:0
+                }
+                li:last-child{
+                margin-right:0
+                }
+            }
+        </style>
+
+    </head>
+    <body>
+        <main>
+            {{ content }}
+        </main>
+    </body>
+</html>
