@@ -38,7 +38,7 @@ Thank you for visiting our booth at PyCon US 2026! Here are links to all of our 
 
 <div class="container">
 <a href="https://www.meetup.com/iepython/" class="title-container" style="text-decoration: none">
-    <image class="logo-img" src="/static/images/iepythongroup.png" alt="The Python language logo, alonside the text: Inland Empire Python Users Group" />
+    <image class="logo-img" src="/static/images/IEPUG_rc_logo.png" alt="The Python language logo, alonside the text: Inland Empire Python Users Group" />
 </a>
 
 <div class="content">
