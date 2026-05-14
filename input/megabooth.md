@@ -15,6 +15,7 @@ Thank you for visiting our booth at PyCon US 2026! Here are links to all of our 
 </a>
 
 <div class="content">
+<h2 id="pybeach">PyBeach</h2>
 <ul><li><a href="https://2026.pybeach.org/prospectus.html">Sponsor Us</a></li> <li><a href="https://2026.pybeach.org/speak.html">Submit a Talk</a></li> <li><a href="https://2026.pybeach.org/volunteer.html">Volunteer</a></li> <li><a href="https://ti.to/pybeach/pybeach2026">Tickets</a></li> <li><a href="https://buttondown.com/pybeach">Newsletter</a></li> </ul>
 <p>
     PyBeach is a general Python conference for Southern California. It is a welcoming, volunteer-run, community-driven event with the mission to educate and connect its attendees to one another, and promote Python within the local technology community. <a href="https://2026.pybeach.org">PyBeach 2026</a> is happening October 24, at the <a href="https://illusionmagiclounge.com/">Illusion Magic Lounge</a> <a href="https://2026.pybeach.org/attend.html">in Santa Monica, California</a>.
@@ -28,6 +29,7 @@ Thank you for visiting our booth at PyCon US 2026! Here are links to all of our 
 </a>
 
 <div class="content">
+<h2 id="socalpython">SoCal Python</h2>
 <ul><li><a href="https://www.meetup.com/socalpython/">Meetup</a></li> <li><a href="https://luma.com/socalpython">Luma</a></li> <li><a href="https://buttondown.com/socalpython">Newsletter</a></li> <li><a href="https://fosstodon.org/@socalpython">Mastodon</a></li> <li><a href="https://bsky.app/profile/socalpython.bsky.social">Bluesky</a></li> </ul>
 <p class="content">
 <a href="https://socalpython.org/">SoCal Python</a> is a meetup group for fans of the Python programming language who live in the Los Angeles area. We’ve been getting together to discuss our favorite programming language since 2008! 
@@ -42,6 +44,7 @@ Thank you for visiting our booth at PyCon US 2026! Here are links to all of our 
 </a>
 
 <div class="content">
+<h2 id="iepug">Inland Empire Python Users Group</h2>
 <ul><li><a href="https://www.meetup.com/iepython/">Meetup</a></li> </ul>
 <p>
 Whether you are an expert Python developer or just learning how to program, <a href="https://www.meetup.com/iepython/">Inland Empire Python</a> is a group for those who want to meet with like minded people who are into programming with the Python language.
@@ -55,6 +58,7 @@ Whether you are an expert Python developer or just learning how to program, <a h
 </a>
 
 <div class="content">
+<h2 id="sdpython">San Diego Python</h2>
 <ul> <li><a href="https://www.meetup.com/pythonsd/">Meetup</a></li> <li><a href="https://discord.com/invite/8GpWuVvdbQ">Discord</a></li> <li><a href="https://x.com/sandiegopython">Twitter</a></li> </ul> 
 <p>
 <a href="https://www.sandiegopython.org/">San Diego Python</a> is a Python programming language special interest group with hundreds of active members and regular meetups. It is free to join and open to members of all skill levels whether you've mastered Python or are just starting to learn.
