@@ -93,6 +93,117 @@ body {
     border-top: 1px solid lightgray;
     font-size: .85rem;
   }
+
+  .benefactor-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    flex-wrap: wrap; /* Enables wrapping for small screens */
+  }
+
+  .benefactor-logo-platinum {
+    height: 250px;
+    width: 250px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .benefactor-logo-gold {
+    height: 200px;
+    width: 200px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .benefactor-logo-silver {
+    height: 175px;
+    width: 175px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+
+  .benefactor-logo-bronze {
+    height: 150px;
+    width: 150px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .benefactor-logo-individual {
+    height: 150px;
+    width: 150px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .benefactor-blurb {
+    flex: 1;
+    min-width: 250px;
+    text-align: left;
+  }
+
+  div.scroll-container {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+
+  div.scroll-container img {
+    padding: 10px;
+  }
+
+  /* Container styling */
+  .grid-container {
+    display: grid;
+    /* Crucial line: Automatically fits as many columns as possible, 
+      with a minimum width of 250px per item, expanding to fill space */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px; /* Spacing between grid items */
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto; /* Centers the grid on larger screens */
+    font-family: sans-serif;
+  }
+
+  /* Individual element styling */
+  .grid-item {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  /* Subtle hover effect for interactivity */
+  .grid-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Typography inside the elements */
+  .grid-item h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333333;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .grid-item p {
+    margin: 0;
+    color: #666666;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  a.grid-item {
+    text-decoration: none; /* Removes the underline */
+    color: inherit;        /* Forces the link to inherit the text color of its parent container */
+  }
 }
 
 @media (max-width: 500px) {

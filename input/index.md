@@ -8,7 +8,7 @@ Please read through the [guidelines](/speak.html) before submitting a talk.
 
 ## **Volunteers Needed**
 
-PyBeach is a [volunteer-run](/volunteer.html) event, which means we rely exclusively on members of the community to offer their time and talents to make things happen! Please fill out our [volunteer interest form](https://forms.gle/WWKu2YMZyisFm1og8) if you are interested in helping out.
+PyBeach is a [volunteer-run](/volunteer.html) event, which means we rely exclusively on members of the community to offer their time and talents to make things happen!
 
 ## **Early Bird Tickets On Sale Now**
 
@@ -18,9 +18,13 @@ Early bird ticket registration open right now. [Claim your ticket today!](https:
 
 PyBeach 2026 will take place on October 24, 2026, at the [Illusion Magic Lounge](https://illusionmagiclounge.com/) in [Santa Monica, California](/attend.html#location).
 
-## **Sponsor Us**
+## **Sponsors**
+Thank you to our [sponsors](/sponsors.html) who are helping put on this event.
+<div class="scroll-container">
+  <a href="/sponsors.html#pallets"><img src="static/images/pallets-logo.svg" alt="Logo for Flask and the Pallets project" width="150" height="75"></a>
+</div>
 
-Conferences cost money to put on! If you are interested in [partnering with us](/prospectus.html) to help put on our event, please contact us at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
+If you are interested in [sponsoring us](/prospectus.html), please contact us at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
 
 ## **Mailing List**
 
