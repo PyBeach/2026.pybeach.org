@@ -2,9 +2,9 @@ PyBeach is a general Python conference located in the Los Angeles area. It is a 
 
 PyBeach is a member project of the <a href="https://www.python.org/psf/" title="Python Software Foundation">Python Software Foundation</a>.
 
-## **CFP Is Now Open through June 7th**
+## **CFP Is Now Open through June _8th_**
 
-Please read through the [guidelines](/speak.html) before submitting a talk.
+Please read through the [guidelines](/speak.html) before submitting a talk. Note: due to a clerical error, we accidentally closed the submission time _before_ AOE on June 7th. Thus, we have extended the period until June 8th, AOE (and we got the time-zone correct this time!).
 
 ## **Volunteers Needed**
 

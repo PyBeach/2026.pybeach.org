@@ -4,7 +4,7 @@ PyBeach is a one-track conference to be held in Santa Monica, CA on Saturday, Oc
 
 ## **Key Information**
 
-* **CFP closes:** June 7th, 2026  
+* **CFP closes:** June ~~7th~~ 8th, 2026  
 * **Accepted presenters notified:** August 9th, 2026  
 * **Program finalized & confirmations due from presenters:** August 23rd, 2026  
 * **Conference:** October 24th, 2026
