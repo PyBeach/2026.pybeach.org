@@ -4,7 +4,7 @@ PyBeach 2026 will be a single-track, one-day conference. We expect to welcome an
 
 Partnering with us will help us pay for our venue and provide a better venue experience for our attendees, provide financial aid to cover ticket prices for students and unemployed attendees. Surplus revenue from PyBeach will also be used to help run local Python user groups and events. If you are interested in sponsoring our event, please contact us at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
 
-### **Sponsorship Tiers**
+### **Sponsorship Tiers** {#tiers}
 
 |  | Platinum | Gold | Silver | Bronze | Individual |
 | ---- | ----- | ----- | ----- | ----- | ----- |
@@ -19,7 +19,7 @@ Partnering with us will help us pay for our venue and provide a better venue exp
 
 <a name="caveat"></a><p style="font-size:0.8em">\* We reserve the right to reject any sponsored talk or website messaging which might jeopardize the 501(c)(3) status of the PSF, that violates our [Code of Conduct](/conduct.html), or that is not of relevance to the Python community. All talks and website messages must be submitted for approval at least one month before the conference date.</p>
 
-### **Add-On Packages**
+### **Add-On Packages** {#addons}
 In addition to general support, you can make a more direct impact on our event by sponsoring these specific add-ons and amenities.
 
 #### **Videography Sponsor**
@@ -43,7 +43,7 @@ In addition to general support, you can make a more direct impact on our event b
 ### **Custom Sponsorship Packages**
 We are open to other benefits. If you have any other ideas on how you can help make our conference better, please contact us at [sponsors@pybeach.org](mailto:sponsors@pybeach.org).
 
-## **PyBeach 2025 Demographics**
+## **PyBeach 2025 Demographics** {#demographics}
 
 Last year we welcomed roughly 100 attendees. Here are some break-downs of our attendance statistics.
 
