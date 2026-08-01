@@ -1,6 +1,6 @@
 ## Tickets {#tickets}
 
-Early bird ticket registration open right now. [Claim your ticket today!](https://ti.to/pybeach/pybeach2026).
+Early bird ticket registration open until August 30th (prices will increase after that). [Claim your ticket today!](https://ti.to/pybeach/pybeach2026).
 
 ## **Date and Time** {#date}
 
@@ -14,7 +14,7 @@ Our venue is the [Illusion Magic Lounge](https://illusionmagiclounge.com/) locat
 
 ### **Arriving by Car** {#car}
 
-The venue is conveniently located just off of the 4th street exit (exit 1A) on westbound Highway I-10. There are ample nearby [parking structures in downtown Santa Monica](https://www.santamonica.gov/places/parking-lots) which typically charge between $20-25 per weekend day  to park. The closest lot is [Structure 5](https://www.santamonica.gov/places/parking-lots/parking-structure-5).
+The venue is conveniently located just off of the 4th street exit (exit 1A) on westbound Highway I-10. There are ample nearby [public parking structures in downtown Santa Monica](https://www.santamonica.gov/places/parking-lots) which typically charge between $20-25 per weekend day to park. The closest lot is [Structure 5](https://www.santamonica.gov/places/parking-lots/parking-structure-5).
 
 ### **Arriving by Transit** {#transit}
 
