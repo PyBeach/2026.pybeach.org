@@ -94,6 +94,40 @@ body {
     font-size: .85rem;
   }
 
+  .speaker-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    max-width: 900px;
+    margin: auto;
+    flex-wrap: wrap; /* Enables wrapping for small screens */
+  }
+
+  .speaker-image {
+    height: 200px;
+    width: 200px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .speaker-bio {
+    flex: 1;
+    min-width: 250px;
+    text-align: left;
+  }
+
+  .talk-abstract {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    min-width: 250px;
+    max-width: 900px;
+    margin: auto;
+    flex-wrap: wrap; /* Enables wrapping for small screens */
+  }
+
   .benefactor-container {
     display: flex;
     align-items: center;

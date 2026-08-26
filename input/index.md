@@ -2,6 +2,12 @@ PyBeach is a general Python conference located in the Los Angeles area. It is a 
 
 PyBeach is a member project of the <a href="https://www.python.org/psf/" title="Python Software Foundation">Python Software Foundation</a>.
 
+## **Announcing our 2026 Talks Program**
+
+Our [talks program](/speakers.html) has been finalized (though we are still working out the exact order of talks).
+
+Thank you so much to everyone who submitted a talk proposal this year!
+
 ## **Early Bird Tickets On Sale Until August 30th**
 
 Early bird ticket registration open right now. [Claim your ticket today!](https://ti.to/pybeach/pybeach2026). After August 30th, prices will increase to $250 for Corporate tickets, $85 for Individual tickets, and $35 for Student/Unemployed tickets. As always, if you would like a reduced price ticket, please reach out at [financialaid@pybeach.org](mailto:financialaid@pybeach.org).
