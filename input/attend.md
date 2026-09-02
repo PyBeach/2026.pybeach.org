@@ -1,6 +1,6 @@
 ## Tickets {#tickets}
 
-Early bird ticket registration open until August 30th (prices will increase after that). [Claim your ticket today!](https://ti.to/pybeach/pybeach2026).
+[Tickets are on sale right now!](https://ti.to/pybeach/pybeach2026). If you would like a reduced price ticket, please reach out at [financialaid@pybeach.org](mailto:financialaid@pybeach.org).
 
 ## **Date and Time** {#date}
 
