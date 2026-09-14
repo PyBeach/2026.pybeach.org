@@ -22,7 +22,7 @@ Learn how to access NASA planetary mission ephemeris data with SpiceyPy; a commu
 # Christopher Neugebauer {#neugebauer}
 
 <div class="speaker-container">
-    <!-- <img src="" alt="Christopher Neugebauer" class="speaker-image"> -->
+    <img src="https://pretalx.northbaypython.org/media/avatars/V37K3L_ZV7NmZD.jpg" alt="Christopher Neugebauer" class="speaker-image">
     <div class="speaker-bio">
       <p>
 Christopher Neugebauer is an Australian developer, speaker, and serial community conference organiser, who presently lives in the United States.
