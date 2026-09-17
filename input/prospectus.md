@@ -8,7 +8,7 @@ Partnering with us will help us pay for our venue and provide a better venue exp
 
 |  | Platinum | Gold | Silver | Bronze | Individual |
 | ---- | ----- | ----- | ----- | ----- | ----- |
-| Availability | 2 | 5 | Unlimited | Unlimited | Unlimited |
+| Remaining | 1 of 2 | 5 | Unlimited | Unlimited | Unlimited |
 | Cost | $5000 | $2500 | $1000 | $500 | $250 |
 | Complimentary Passes | 6 | 4 | 2 | 1 | 1 |
 | Logo and acknowledgement on Website | ✓ | ✓ | ✓ | ✓ | ✓ |
