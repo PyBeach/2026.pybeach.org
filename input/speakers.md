@@ -1,6 +1,6 @@
 # PyBeach 2026 Speakers and Program
 
-Here is the set of speakers we have selected for our 2026 program. Note that this list may be subject to change due to extenuating circumstances such as speaker availability.
+Here is the set of speakers we have selected for our 2026 program. Note that this list may be subject to change due to extenuating circumstances such as speaker availability. For full details of when each talk will take place, see our [schedule page on pretalx](https://pretalx.com/pybeach2026/schedule/).
 
 # Andrew Annex, Ph.D. {#annex}
 
@@ -13,7 +13,7 @@ Here is the set of speakers we have selected for our 2026 program. Note that thi
     </div>
 </div>
 
-## Talk: **Accessing NASA Planetary Ephemeris with SpiceyPy**
+## Talk: **Accessing NASA Planetary Ephemeris with SpiceyPy** [(schedule)](https://pretalx.com/pybeach2026/talk/9GUT89/)
 
 <div class="talk-abstract">
 Learn how to access NASA planetary mission ephemeris data with SpiceyPy; a community-developed open source wrapper to the JPL SPICE toolkit.
@@ -32,7 +32,7 @@ He serves as a Director of the Python Software Foundation, and is co-organiser o
     </div>
 </div>
 
-## Talk: **Adventures in GIL-Free Python (finally!)**
+## Talk: **Adventures in GIL-Free Python (finally!)** [(schedule)](https://pretalx.com/pybeach2026/talk/XFTA7W/)
 
 <div class="talk-abstract">
 For the first time in the history of (stable) CPython, there’s options for concurrent processing in the same process: the GIL isn’t gone, but in select situations, you can definitely avoid it. 
@@ -61,7 +61,7 @@ Trey specializes in Python education and corporate training. You can learn from 
     </div>
 </div>
 
-## Talk: **Everything You Don't Need to Know About Classes in Python**
+## Talk: **Everything You Don't Need to Know About Classes in Python** [(schedule)](https://pretalx.com/pybeach2026/talk/8RNAEW/)
 
 <div class="talk-abstract">
 What happens when you look up an attribute on a Python object? And how do methods actually work?
@@ -84,7 +84,7 @@ Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, 
     </div>
 </div>
 
-## Talk: **I am bad at things – And that’s okay**
+## Talk: **I am bad at things – And that’s okay** [(schedule)](https://pretalx.com/pybeach2026/talk/VVAM7B/)
 
 <div class="talk-abstract">
 Humans make mistakes. We all know it, and yet so often downplay this in our team processes. Doubly so in this age of assuming we’ll always notice the errors from AI and automation in code review. One of the marks of a good system is how it handles our inherent human fallibility. This talk will discuss how cognitive biases create common failure modes, principles for building resilient systems through checklists and objective measurements, and how all of this affects us as individuals. As we are asked to move faster and faster, relying on permanent hyper-vigilance leaves an increasing and worrying burden on us all.
@@ -101,7 +101,7 @@ Software engineer at Bloomberg. Primary maintainer of tox, virtualenv, build, pi
     </div>
 </div>
 
-## Talk: **Securing Your Python Supply Chain: From Dependencies to Deployment**
+## Talk: **Securing Your Python Supply Chain: From Dependencies to Deployment** [(schedule)](https://pretalx.com/pybeach2026/talk/9BUFWV/)
 
 <div class="talk-abstract">
 Supply chain attacks targeting Python packages hit real projects with millions of users. The Ultralytics compromise injected a cryptocurrency miner into a package with 80 million monthly downloads. GhostAction stole 3,300+ secrets from 570+ repositories. The Shai-Hulud worm crossed ecosystem boundaries from npm to PyPI. These attacks exploited gaps that most Python developers leave open: unpinned dependencies, long-lived API tokens, no vulnerability scanning.
@@ -124,7 +124,7 @@ Elizabeth Bacon teaches middle school computer science at Wildwood School. A for
     </div>
 </div>
 
-## Talk: **Supporting the Next Generation of Pythonistas**
+## Talk: **Supporting the Next Generation of Pythonistas** [(schedule)](https://pretalx.com/pybeach2026/talk/JG99ST/)
 
 <div class="talk-abstract">
 Computer science education is a world of contradictions. Computing increasingly mediates every aspect of our lives, just as young people are told that programming will soon be obsolete. Classical funding sources have dried up while money for "AI education" is seemingly endless. This session will cover the overall landscape of CS education, while diving into the concrete realities of teaching within it. We'll look at how teachers are addressing the current challenges and helping students to build the cognitive skills necessary to design, develop and maintain software in a collaborative environment. Along the way, we'll showcase some student work in steganography, robotics, and CS research from a local school.
@@ -141,7 +141,7 @@ Margaret Fero is an interdisciplinary hacker who enjoys systems thinking, inform
     </div>
 </div>
 
-## Talk: **Technical Documentation in the Age of LLMs**
+## Talk: **Technical Documentation in the Age of LLMs** [(schedule)](https://pretalx.com/pybeach2026/talk/XUQ8EW/)
 
 <div class="talk-abstract">
 Whether or not you’re using Claude, Codex, or other tools being sold as “AI-powered coding assistants”, many of your users are. The most recent (2025) StackOverflow developer survey found that 79% of respondents were using AI tools at least monthly, and more than half of early-career and mid-career devs reported daily use. Those same early- and mid-career devs are often your documentation users, though often less-directly than they have been in the past. When users aren’t actually looking at your documentation as you presented it, how can you facilitate their discovery of the information they need? In this talk, we’ll cover some longstanding best practices and their role in the current documentation use landscape.
@@ -160,7 +160,7 @@ Barbara Shaurette is a senior SRE and data infrastructure engineer with nearly 2
     </div>
 </div>
 
-## Talk: **The Small Web Doesn't Need Big Analytics**
+## Talk: **The Small Web Doesn't Need Big Analytics** [(schedule)](https://pretalx.com/pybeach2026/talk/78BZAW/)
 
 <div class="talk-abstract">
 The indie web is making a comeback. People are building personal sites, small apps, and passion projects again, and they deserve infrastructure that matches that scale. But when it comes to knowing who's visiting your site or keeping bots at bay, the default advice is always "just use [expensive SaaS tool]." Google Analytics for visitor counts. Cloudflare for bot blocking. Tools built for enterprises, billing like enterprises.
@@ -181,7 +181,7 @@ In his spare time, he enjoys rescuing people having a bad day in the mountains, 
     </div>
 </div>
 
-## Talk: **Working With Risk: Lessons From Mountain Rescue**
+## Talk: **Working With Risk: Lessons From Mountain Rescue** [(schedule)](https://pretalx.com/pybeach2026/talk/QR8ZYT/)
 
 <div class="talk-abstract">
 We'd all like to completely avoid risk, but that's often not an option - so rather than ignoring it, how do we acknowledge it and work with it head-on?

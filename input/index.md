@@ -6,9 +6,9 @@ PyBeach is a member project of the <a href="https://www.python.org/psf/" title="
 
 [Claim your ticket today!](https://ti.to/pybeach/pybeach2026). As always, if you would like a reduced price ticket, please reach out at [financialaid@pybeach.org](mailto:financialaid@pybeach.org).
 
-## **Announcing our 2026 Talks Program**
+## **Schedule is Up**
 
-Our [talks program](/speakers.html) has been finalized (though we are still working out the exact order of talks).
+Our [schedule](https://pretalx.com/pybeach2026/schedule/) has been confirmed!
 
 Thank you so much to everyone who submitted a talk proposal this year!
 
