@@ -14,3 +14,18 @@ Special thanks to all of our sponsors and community partners who are helping mak
       </p>
     </div>
 </div>
+
+
+## Individual Sponsor: Carol Willing
+
+<div class="benefactor-container">
+    <a href="https://willingconsulting.com">
+        <img src="https://pretalx.com/media/avatars/ZK9YRN_jH7Ygwe_thumbnail_default.webp" alt="Pallets Logo" class="benefactor-logo-individual">
+    </a>
+    <div class="benefactor-blurb">
+      <p>
+        Website <a href="https://willingconsulting.com">https://willingconsulting.com</a>
+      </p>
+    </div>
+</div>
+
