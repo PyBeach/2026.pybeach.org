@@ -2,6 +2,10 @@ PyBeach is a general Python conference located in the Los Angeles area. It is a 
 
 PyBeach is a member project of the <a href="https://www.python.org/psf/" title="Python Software Foundation">Python Software Foundation</a>.
 
+## **Lightning Talks**
+
+Unfortunate one of our speakers has had to withdraw. Thus, we have decided to hold a brief CFP for [Lightning Talks](https://en.wikipedia.org/wiki/Lightning_talk) to be held at the end of the day. [Check out our guidelines](/lightning.html) and [submit a proposal](/lightning.html#link) if you are interested in participating! Submissions will close after October 22nd.
+
 ## **Tickets On Sale Now**
 
 [Claim your ticket today!](https://ti.to/pybeach/pybeach2026). As always, if you would like a reduced price ticket, please reach out at [financialaid@pybeach.org](mailto:financialaid@pybeach.org).
