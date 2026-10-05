@@ -149,25 +149,6 @@ Whether or not you’re using Claude, Codex, or other tools being sold as “AI-
 This is not a talk about how to use LLMs, but a talk about how to write universally-helpful docs that work just as well for LLM users.
 </div>
 
-# Barbara Shaurette {#shaurette}
-
-<div class="speaker-container">
-    <img src="https://pretalx.com/media/avatars/GBNNSD_FKYuY1z.webp" alt="Barbara Shaurette" class="speaker-image">
-    <div class="speaker-bio">
-      <p>
-Barbara Shaurette is a senior SRE and data infrastructure engineer with nearly 25 years of experience building and maintaining production systems. As a longtime member of PyLadies and the Python community, she's passionate about teaching and about using the right tool for the job. She blogs (infrequently) at <a href="https://mechanicalgirl.com">mechanicalgirl.com</a>.
-      </p>
-    </div>
-</div>
-
-## Talk: **The Small Web Doesn't Need Big Analytics** [(schedule)](https://pretalx.com/pybeach2026/talk/78BZAW/)
-
-<div class="talk-abstract">
-The indie web is making a comeback. People are building personal sites, small apps, and passion projects again, and they deserve infrastructure that matches that scale. But when it comes to knowing who's visiting your site or keeping bots at bay, the default advice is always "just use [expensive SaaS tool]." Google Analytics for visitor counts. Cloudflare for bot blocking. Tools built for enterprises, billing like enterprises.
-
-There's a better way. In this talk, we'll walk through a lightweight traffic tracking and bot-blocking solution written in pure Python. All you need are a small database table, the `ua-parser` library, and a middleware pattern that works equally well in Flask, Django, or any other Python web framework. You'll leave with a practical, self-hosted solution you can drop into any Python-based web project, and a renewed appreciation for how much you can do without reaching for your credit card.
-</div>
-
 # Andrew Godwin {#godwin}
 
 <div class="speaker-container">
