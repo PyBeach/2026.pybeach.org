@@ -29,3 +29,13 @@ Special thanks to all of our sponsors and community partners who are helping mak
     </div>
 </div>
 
+### Individual Sponsor: Amethyst Reese {#amethyst}
+
+<div class="benefactor-container">
+    <img src="static/images/amethystreese.jpeg" alt="Amethyst Reese" class="benefactor-logo-individual">
+    <div class="benefactor-blurb">
+      <p>
+      Website: <a href="https://amethyst.cat/">https://amethyst.cat/</a>
+      </p>
+    </div>
+</div>
