@@ -61,7 +61,7 @@ Attendees who are not visibly signaling their preference should always be asked 
 
 The event may have one or more staff taking photographs and/or audio or video recordings during the event. These staff will respect attendees' preferences regarding photography and recordings.
 
-If the Python Software Foundation or PyBeach organizers chooses to publish photographs and recordings taken by event staff, we will publish them under a Creative Commons license. The PSF and PyBeach further reserve the right to use those photographs and recordings in promotional materials to promote PyBeach and/or the use of free and open source software.
+The Python Software Foundation and PyBeach reserve the right to use those photographs and recordings in promotional materials to promote PyBeach, and/or the use of free and open source software.
 
 If there is a violation of this policy, event organizers will request that the photograph be removed from any sites where it was posted and deleted from the devices. In the event that this request is ignored or further violations occur, the participants violating this policy may be sanctioned or expelled from the conference without a refund or banned from future PyBeach events.
 
