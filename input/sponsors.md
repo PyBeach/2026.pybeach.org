@@ -15,6 +15,24 @@ Special thanks to all of our sponsors and community partners who are helping mak
     </div>
 </div>
 
+## Gold Sponsor: Cesium Astro {#cesiumastro}
+
+<div class="benefactor-container">
+    <a href="https://www.cesiumastro.com/">
+        <img src="static/images/cesium-astro-white.svg" alt="Cesium Astro Logo and Tagline" class="benefactor-logo-gold" style="height: 125px; width: 275px;">
+    </a>
+    <div class="benefactor-blurb">
+      <p>
+        A global leader in advanced connectivity solutions for space and defense, CesiumAstro delivers space systems that connect, detect, and defend across commercial, government, and national security missions. Its full-stack, multi-mission hardware and software spans satellites, high-performance communications payloads and advanced computing systems, all designed, manufactured, and tested in-house to AS9100D/ISO 9001:2015 standards.
+      </p>
+      <p>
+        Software sits at the core of that work. CesiumAstro engineers write the code that steers beams, processes signals, runs ground and flight systems, and turns data into answers for customers. Recent acquisitions of Vidrovr (AI and data analysis) and 1Aardvark (mission software) expand what those teams build.
+      </p>
+      <p>
+        Headquartered near Austin, Texas, CesiumAstro operates additional facilities in Colorado, California, Washington, D.C., Florida, the United Kingdom, Germany, Taiwan, Singapore, and Japan. Join the team at <a href="https://CesiumAstro.com/careers">CesiumAstro.com/careers</a>.
+      </p>
+    </div>
+</div>
 
 ## Individual Sponsor: Carol Willing
 
