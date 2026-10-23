@@ -20,7 +20,7 @@ Lightning talks will take place at the end of the day, just before the closing r
 
 ## Proposal Process {#process}
 
-Submissions will close TWO (2) days before the conference, on **October 22nd, 2026**, [Anywhere On Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth). If you make a submission and then subsequently find that you cannot attend, please withdraw your proposal **immediately**.
+Submissions will close ~~TWO (2) days before the conference, on **October 22nd, 2026**~~, **October 23rd, 2026**, [Anywhere On Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth). If you make a submission and then subsequently find that you cannot attend, please withdraw your proposal **immediately**.
 
 DO NOT submit a proposal unless you already have a ticket, and can be ready to present your talk on the day of the conference.
 
