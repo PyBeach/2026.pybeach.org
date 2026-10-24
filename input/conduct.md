@@ -12,7 +12,7 @@ If you believe someone has violated the Code of Conduct, we encourage you to rep
 * Sarah Kuchinsky
 * Elaine Wong
 
-If the reported incident involves any of the above individuals, email [conduct-wg@python.org](mailto:conduct-wg@python.org) instead to avoid a potential conflict of interest.
+If the reported incident involves any of the above individuals, email [jon@python.org](mailto:jon@python.org) instead to avoid a potential conflict of interest.
 
 If you are uncertain as to whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it, and we will evaluate whether it is within our scope.
 
