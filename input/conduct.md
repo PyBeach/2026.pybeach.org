@@ -6,10 +6,11 @@ To that end, anyone attending PyBeach or interacting in any PyBeach online space
 
 ## **Procedures for Reporting an Incident**
 
-If you believe someone has violated the Code of Conduct, we encourage you to report it by emailing [safety@pybeach.org](mailto:safety@pybeach.org), which is monitored by the PyBeach Code of Conduct responders:
+If you believe someone has violated the Code of Conduct, we encourage you to report it by emailing [safety@pybeach.org](mailto:safety@pybeach.org), or calling our code of conduct number (424) 374-0581 . These channels will be monitored by our the PyBeach Code of Conduct responders
 
 * Stephen Kiazyk
 * Sarah Kuchinsky
+* Elaine Wong
 
 If the reported incident involves any of the above individuals, email [conduct-wg@python.org](mailto:conduct-wg@python.org) instead to avoid a potential conflict of interest.
 
